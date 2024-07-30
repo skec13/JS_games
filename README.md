@@ -70,22 +70,16 @@ How to get repository from Github, install packages and run it locally
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/skec13/skec13.github.io.git
+   git clone https://github.com/skec13/JS_games.git
    ```
-2. Go to downloaded file and CD into server file
+2. Go to downloaded file and CD into folder
    ```
-   cd skec13.github.io
+   cd 6_SCROLLER_GAME
    ```
-3. Install NPM packages
+3. Run script.js
    ```sh
    npm install
-   ``` 
-4. Run server locally
    ```
-   npm run dev
-   ```
-5. Access web page
-   [http://localhost:5173](http://localhost:5173) (check console for correct port)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -93,7 +87,7 @@ How to get repository from Github, install packages and run it locally
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Vercel link: https://skec13-github-io.vercel.app/
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
