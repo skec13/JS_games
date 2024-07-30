@@ -1,0 +1,22 @@
+body {
+    width: 100vw;
+    height: 100vw;
+    overflow: hidden;
+    cursor: none;
+}
+
+canvas {
+    background-image: url(Images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+#collisionCanvas {
+    opacity: 0;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "4_FIRST_JS_GAME",
+  "version": "1.0.0",
+  "description": "FIRST JS GAME",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matevž",
+  "license": "ISC"
+}

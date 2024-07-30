@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;  
+    column-gap: 5px;
+    justify-content: start;
+}
+
+#canvas1, #canvas2, #canvas3, #canvas4 {
+    border: 3px solid black;
+    height: 1000px;
+    width: 500px;
+}
+
