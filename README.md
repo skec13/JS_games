@@ -76,9 +76,9 @@ How to get repository from Github, install packages and run it locally
    ```
    cd 6_SCROLLER_GAME
    ```
-3. Run script.js
+3. Run index.html
    ```sh
-   npm install
+   index.html
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
